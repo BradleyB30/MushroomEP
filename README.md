@@ -3,5 +3,3 @@ This project is a web application for binary classification of mushrooms as edib
 
 # Usage
 streamlit run app.py
-
-http://localhost:8501
